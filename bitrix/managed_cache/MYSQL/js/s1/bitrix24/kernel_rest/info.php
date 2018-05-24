@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/js/rest/client.js" => "15269825315795","/bitrix/js/rest/applayout.js" => "152698253112374",)); ?>
